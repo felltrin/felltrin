@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felltrin
 - 👀 I’m interested in web development, skateboarding and basketball.
-- 🌱 I’m currently learning Flask and building web apps.
-- 💞️ I’m looking to collaborate on anything interesting. More specifically, anything about health and fitness. 
+- 🌱 I’m currently specializing in TypeScript, Three.js and React.
+- 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me
   - Twitter DMs
     https://twitter.com/ballernumb3rone
