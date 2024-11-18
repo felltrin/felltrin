@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felltrin
-- 👀 I’m interested in web development, skateboarding and basketball.
+- 👀 I’m interested in baking cookies, music and basketball.
 - 🌱 I’m specializing in TypeScript, Three.js and React.
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me
