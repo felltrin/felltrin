@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felltrin
 - 👀 I’m interested in fullstack and ML.
-- 🌱 I’m specializing in TypeScript and Python
+- 🌱 I’m specializing in TypeScript and Java
 - 📫 How to reach me
   - Twitter DMs
     https://twitter.com/ballernumb3rone
