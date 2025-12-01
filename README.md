@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @felltrin
-- 👀 I’m interested in fullstack and ML.
+- 👋 Hi, I’m Lucius
+- 👀 I’m working on Fullstack and game development.
 - 🌱 I’m specializing in TypeScript and Java
 - 📫 How to reach me
   - Twitter DMs
