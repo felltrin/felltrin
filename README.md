@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucius
 - 👀 I’m working on Fullstack and game development.
-- 🌱 I’m specializing in TypeScript and Java
+- 🌱 I’m specializing in TypeScript
 - 📫 How to reach me
   - Twitter DMs
     https://twitter.com/ballernumb3rone
